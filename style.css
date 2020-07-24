@@ -231,7 +231,11 @@ footer.second p{
 		display: block;
 	}
 	.parallax{
-		display: none;
+		display: block;
+		background-position: center;
+	}
+	.parllax-inner{
+		padding-top: 40%;
 	}
 	.social i{
 		font-size: 170%;
